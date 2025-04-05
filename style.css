@@ -1,0 +1,32 @@
+body {
+    font-family: arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .destaque {
+    color: white;
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  #lista {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #lista li {
+    margin: 5px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
